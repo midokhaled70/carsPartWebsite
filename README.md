@@ -66,7 +66,8 @@ The JavaScript function `loadFileData(filename)` handles `.xlsx` files by:
 * Mobile menu hides after selection
 
 ---
-
+## Autor
+--Ahmed Khaled
 ## 🛠️ Usage
 
 1. Clone or download this repository.
