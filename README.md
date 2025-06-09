@@ -27,6 +27,10 @@ index.html       # Main HTML file with all content and embedded JavaScript
 ````
 
 ---
+## **Screenshots**
+--![3](https://github.com/user-attachments/assets/2161af15-b937-4b34-8910-3a2553e5c8e5)
+![2](https://github.com/user-attachments/assets/40ca82e9-befd-4acd-9a88-09387b31a86f)
+![1](https://github.com/user-attachments/assets/4fd09ebc-14c1-48e4-b500-55cc48bed770)
 
 ## 📦 Dependencies
 
