@@ -71,7 +71,7 @@ The JavaScript function `loadFileData(filename)` handles `.xlsx` files by:
 
 ---
 ## Autor
---mido khale
+--mido khaled
 ## 🛠️ Usage
 
 1. Clone or download this repository.
