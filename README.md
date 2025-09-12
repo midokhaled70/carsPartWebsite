@@ -3,7 +3,7 @@
 ````markdown
 # Korean Auto Imports Website
 
-A responsive, single-page marketing site for **Korean Auto Imports**, featuring sections like Home, About, Products, and Contact. Built using HTML, Tailwind CSS, and JavaScript, with extended functionality to parse and convert `.xlsx` files into CSV format.
+A responsive, single-page marketing site for **Korean Auto Imports**, featuring sections like Home, About, Products, and Contact. Built using HTML, Tailwind CSS, and JavaScript.
 
 ---
 
